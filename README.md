@@ -1,5 +1,5 @@
-- 👋Hola, Soy Ailin Porra , Desarrolladora de Software 
-- 👀Este es mi Portafolio !!! 
+- 👋 Hola, Soy Ailin Porra , Desarrolladora de Software 
+- 👀 Te invito a ver mi Portafolio !!! 
 - Link
   
 <!---
